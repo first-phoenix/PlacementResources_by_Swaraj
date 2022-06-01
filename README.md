@@ -7,5 +7,5 @@
 
 
 ### Roadmaps
-1. [Open Source Guide]()
-
+1. [Open Source Guide](https://github.com/first-phoenix/PlacementResources_by_Swaraj/blob/main/Notes/Roadmaps/OpenSource_Roadmap.pdf)
+2. [Web 3 Roadmap](https://github.com/first-phoenix/PlacementResources_by_Swaraj/blob/main/Notes/Roadmaps/Web3_Roadmap.pdf)
