@@ -8,7 +8,13 @@
 
 
 ### DBMS Notes
-1. [DBMS Interview Questions](https://drive.google.com/file/d/1HRB0HGC9l50MsIrWt2XRuF-FrRWMKnLq/view?usp=sharing)
+1. [100 DBMS Interview Questions](https://drive.google.com/file/d/1HRB0HGC9l50MsIrWt2XRuF-FrRWMKnLq/view?usp=sharing)
+
+
+
+### OS Notes
+1. [OS Notes by Apni Kaksha](https://drive.google.com/file/d/1LSj8MUvJ4ZLNQCzOfFjMvIOBOhCtSWmv/view?usp=sharing)
+
 
 
 ### Roadmaps
