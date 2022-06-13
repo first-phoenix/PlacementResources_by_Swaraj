@@ -18,7 +18,7 @@
 
 
 ### Project Ideas
-1. [50+ Project Ideasfor resume](https://drive.google.com/file/d/1P-eVgHdzp7A5rCRx_obqB372NC_cKsL2/view?usp=sharing)
+1. [50+ Project Ideas for resume](https://drive.google.com/file/d/1P-eVgHdzp7A5rCRx_obqB372NC_cKsL2/view?usp=sharing)
 
 
 
