@@ -17,6 +17,11 @@
 
 
 
+### Project Ideas
+1. [50+ Project Ideasfor resume](https://drive.google.com/file/d/1P-eVgHdzp7A5rCRx_obqB372NC_cKsL2/view?usp=sharing)
+
+
+
 ### Roadmaps
 1. [Software Developer Roadmap](https://drive.google.com/file/d/1zdH-yR3bnIMbDBxC4NFeYcimCwmUa8LM/view?usp=sharing)
 2. [Open Source Guide](https://drive.google.com/file/d/1yMcisVYSAmtkwWGRE49iNL7dIsYE3-pd/view?usp=sharing)
