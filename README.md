@@ -2,18 +2,23 @@
 
 ## :+1: Star this Repo and Follow [Swaraj](https://www.linkedin.com/in/swarajkhan/) for more...
 
-### Java Notes
+### Java & OOP Notes - Object Oriented Programming Notes
 1. [240 Java Interview Questions](https://drive.google.com/file/d/1SgJwYKeqZsWHq46WMH_7ud3poSPR6NF1/view?usp=sharing)
 
 
 
-### DBMS Notes
+### DBMS Notes - Data Base Management System Notes
 1. [100 DBMS Interview Questions](https://drive.google.com/file/d/1HRB0HGC9l50MsIrWt2XRuF-FrRWMKnLq/view?usp=sharing)
 
 
 
-### OS Notes
+### OS Notes - Operating Systems Notes
 1. [OS Notes by Apni Kaksha](https://drive.google.com/file/d/1LSj8MUvJ4ZLNQCzOfFjMvIOBOhCtSWmv/view?usp=sharing)
+
+
+
+### CN Notes - Computer Networks Notes
+1. [CN Notes by Apni Kaksha](https://drive.google.com/file/d/1BQynP8MZIpGD7lzQo6oi8BDvQINS6C5L/view?usp=sharing)
 
 
 
